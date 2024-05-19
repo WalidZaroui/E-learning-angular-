@@ -1,0 +1,22 @@
+.body-content
+{
+  width: 50%;
+  position: relative;
+  margin-right: 27%;
+  margin-left: auto;
+  padding-top: 80px;
+}
+.mat-form-styled mat-form-field {
+  width: 100%;
+  margin-bottom: -3em;
+}
+.addImageIcon {
+  position: absolute;
+  top: 38%;
+  right: 120%;
+  font-size: 5em;
+  color: #0a3d62;
+}
+.addImageIcon:hover {
+  cursor: pointer;
+}
